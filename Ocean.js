@@ -5,8 +5,8 @@ import { Sky } from 'three/addons/objects/Sky.js';
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
 // Replace these URLs with the actual asset links (e.g., from your Webflow Assets)
-const waterNormalsUrl = './waterNormals.jpg';
-const modelTUrl = './T3.glb';
+const waterNormalsUrl = './assets/waterNormals.jpg';
+const modelTUrl = './assets/T3.glb';
 
 // Global variables
 let camera, scene, renderer;
